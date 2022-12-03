@@ -2,6 +2,8 @@
 
 *click on the link below to view the demo project
 
+## [see the demo of our project](https://dreamy-curran-5c15a0.netlify.app//)
+
 ### Screenshot
  * Landing page 
    ![image](https://github.com/nyongmercy/Udemy-Clone/blob/main/Screenshot/Screenshot%20(557).png?raw=true)
