@@ -28,7 +28,7 @@
 * fonts Awesome
 
 ### Summary:
- The project is to clone www.udemy.com/ I did 10 pages Home page, Cart page, checkout page, Sign up & Login page, 5 course pages. used the Font Awesome library for icons, Google Fonts library for fonts. To make it interactive with the user we use javascript language. We have used localStorage property to store the users data for Login and for adding items in the cart. Thanks.
+ The project is to clone www.udemy.com/ I did 10 pages Home page, Cart page, checkout page, Sign up & Login page, 5 course pages. used the Font Awesome library for icons, Google Fonts library for fonts. To make it interactive with the user we use javascript language. We have used localStorage property to store the users data for Login and for adding items in the cart. Thank you.
 
  ### Hosted link: 
  https://nyongmercy.github.io/Udemy_clone/
